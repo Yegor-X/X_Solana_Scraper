@@ -57,7 +57,7 @@ while True:
 ```bash
 python scraper.py
 ```
-Grab a cup of tea and enjoy watching crypto updates in your terminal! 🚀
+Grab a cup of tea and enjoy watching progress in your terminal! 🚀
 
 ## Result
 After execution, the script generates `data_with_llm_analytics.csv`, which contains relevant information for each post, including **basic analytics from Deepseek-R1 LLM**.
